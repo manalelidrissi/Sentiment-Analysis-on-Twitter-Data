@@ -11,7 +11,7 @@ This is the main Twitter Data analysis repository.
 Before running the scripts, some dependencies must be installed.
 To do this, you can use the following command : 
 
-pip install -r requirements.txt
+        pip install -r requirements.txt
 
 **Content**
 
